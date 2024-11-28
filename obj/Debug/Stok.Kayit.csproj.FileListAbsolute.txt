@@ -1,0 +1,17 @@
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\bin\Debug\Stok.Kayit.dll
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\bin\Debug\Stok.Kayit.pdb
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\obj\Debug\Stok.Kayit.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\obj\Debug\Stok.Kayit.UserControl1.resources
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\obj\Debug\Stok.Kayit.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\obj\Debug\Stok.Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\obj\Debug\Stok.Kayit.dll
+C:\Users\Samet\Desktop\stok,\Stok.Kayit\obj\Debug\Stok.Kayit.pdb
+C:\Users\Samet\Desktop\stok\Stok.Kayit\bin\Debug\Stok.Kayit.dll.config
+C:\Users\Samet\Desktop\stok\Stok.Kayit\bin\Debug\Stok.Kayit.dll
+C:\Users\Samet\Desktop\stok\Stok.Kayit\bin\Debug\Stok.Kayit.pdb
+C:\Users\Samet\Desktop\stok\Stok.Kayit\obj\Debug\Stok.Kayit.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\stok\Stok.Kayit\obj\Debug\Stok.Kayit.UserControl1.resources
+C:\Users\Samet\Desktop\stok\Stok.Kayit\obj\Debug\Stok.Kayit.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\stok\Stok.Kayit\obj\Debug\Stok.Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\stok\Stok.Kayit\obj\Debug\Stok.Kayit.dll
+C:\Users\Samet\Desktop\stok\Stok.Kayit\obj\Debug\Stok.Kayit.pdb
